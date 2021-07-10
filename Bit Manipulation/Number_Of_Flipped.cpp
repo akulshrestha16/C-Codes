@@ -2,6 +2,8 @@
 Given two numbers ‘a’ and b’. Write a program to count number of bits needed to
 be flipped to convert ‘a’ to ‘b’.
 
+key : n & n-1 remove last set bit.
+
 10-1010
 8- 1000
 0010 = 2
